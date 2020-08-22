@@ -1,0 +1,10 @@
+com/demo/entity/ProductEntity.class
+com/demo/entity/CategoryEntity.class
+com/demo/service/ProductService.class
+com/demo/controller/WebController.class
+com/demo/dto/BaseDTO.class
+com/demo/controller/ProductController.class
+com/demo/App.class
+com/demo/utils/Utils.class
+com/demo/service/ProductServiceImpl.class
+com/demo/repository/ProductRepo.class
